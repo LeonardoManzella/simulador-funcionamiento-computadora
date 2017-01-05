@@ -1,0 +1,16 @@
+Los colores se asignan en pares de la siguiente forma, comenzando por el color de texto, con color de fondo
+
+1 - Blanco
+2 - Rojo
+3 - Verde
+4 - Amarillo
+5 - Azul
+6 - Magenta
+7 - Cyan
+8 - Negro
+
+El 0 es el color de RESET
+El 1 es Texto Blanco, Fondo Blanco
+El 2 es Texto Blanco, Fondo Rojo
+El 9 es Texto Rojo, Fondo Blanco
+Asi hasta el 64

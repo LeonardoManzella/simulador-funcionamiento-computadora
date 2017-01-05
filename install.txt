@@ -1,0 +1,15 @@
+Para instalar el sistema se debe ejecutar el siguiente comando
+
+make menuconfig
+
+Dentro del mismo, una vez configurado cada modulo, con su correspondiente direccion IP, se selecciona el menu Compilar
+
+En el mismo, la ultima opcion establece si la compilacion es Release o Debug
+
+Se recomienda hacer un Clean antes de compilar un modulo o Todos
+
+Hay una opcion para ver el Log de errores de compilacion, desde el mismo visor se puede elimnar el archivo.
+
+Saliendo del menu, se encuentra la opcion Deploy, la cual copia los binarios y sus configuraciones a los diferentes equipos, segun las direcciones IP que tienen asignadas. En los distintos equipos, los binarios se encuentran en la carpeta /home/utnso/cache13
+
+That's all folks!

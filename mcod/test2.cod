@@ -1,0 +1,12 @@
+iniciar 6;
+leer 0;
+leer 1;
+leer 3;
+leer 1;
+leer 5;
+leer 6;
+leer 2;
+leer 4;
+leer 4;
+leer 2;
+finalizar;
