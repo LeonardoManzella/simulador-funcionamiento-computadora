@@ -1,5 +1,16 @@
-# Sistemas Operativos - TP 2015 - Genesys
-Instalacion
+## Simulador de Funcionamiento Interno de una Computadora
+Tecnologías: Solamente el `Lenguaje C`
+
+Creamos un programa que permite emular las capacidades y módulos internos de una computadora.
+Permite calcular el comportamiento de un programa en diferentes computadoras.
+
+### Funcionamiento General
+![alt text](https://raw.githubusercontent.com/LeonardoManzella/simulador-funcionamiento-computadora/master/Documentacion/Funcionamiento%20General.png "
+Funcionamiento General")
+
+Para mas Proyectos, por favor ver mi LinkedIn: https://www.linkedin.com/in/leonardo-manzella-argentina
+
+## Instalacion
 -----------
 
 Para proceder a la instalacion primero es necesario instalar los header de la libreria ncurses, utilizando el siguiente comando:
